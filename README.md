@@ -55,8 +55,9 @@ The project requires Python 3 and the following external packages:
 <img width="1200" height="600" alt="Screenshot 2026-10-25 000757" src="https://github.com/user-attachments/assets/119544b3-48d0-44f2-b6ae-a6ed071f1c5f" />
 <img width="1361" height="632" alt="Screenshot 2026-10-25 002823" src="https://github.com/user-attachments/assets/5a285ba9-444c-4059-a9c3-274fcb192bea" />
 <img width="1313" height="621" alt="Screenshot 2026-10-25 002735" src="https://github.com/user-attachments/assets/68faa350-0cd7-4102-9f82-a545cee3e8d7" />
-<img width="960" height="455" alt="Screenshot 2026-10-25 002153" src="https://github.com/user-attachments/assets/93889117-4d2a-4c8e-b2e9-ef72c5d5ac08" />
-<img width="960" height="455" alt="Screenshot 2026-10-25 002205" src="https://github.com/user-attachments/assets/1287f9fa-8023-41f3-85af-3106dc49805c" />
+<img width="641" height="606" alt="Screenshot 2026-10-25 003030" src="https://github.com/user-attachments/assets/2104c19d-9b7e-413c-9b1c-4a96a5c2fc42" />
+
+<img width="967" height="578" alt="Screenshot 2026-10-25 002959" src="https://github.com/user-attachments/assets/e5345d94-f17b-40d5-84d9-9b8ef0932e49" />
 
 
 
