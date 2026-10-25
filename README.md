@@ -52,7 +52,7 @@ The project requires Python 3 and the following external packages:
 
 ## Usage Examples
 
-![Home page](https://github.com/AahanKumar524/Scratch_Academy/blob/main/Screenshot%202026-10-25%20000757.png)
+<img width="960" height="455" alt="Screenshot 2026-10-25 000757" src="https://github.com/user-attachments/assets/119544b3-48d0-44f2-b6ae-a6ed071f1c5f" />
 ![Sign up](images/signup.png)
 ![Log in](images/login.png)
 ![Saying hello](images/chathello.png)
