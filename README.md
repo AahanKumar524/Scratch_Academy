@@ -53,10 +53,10 @@ The project requires Python 3 and the following external packages:
 ## Usage Examples
 
 <img width="960" height="455" alt="Screenshot 2026-10-25 000757" src="https://github.com/user-attachments/assets/119544b3-48d0-44f2-b6ae-a6ed071f1c5f" />
-<img width="798" height="373" alt="Screenshot 2026-10-25 002116" src="https://github.com/user-attachments/assets/d3080ee4-363f-438b-a658-8d4115d352d9" />
-<img width="527" height="250" alt="Screenshot 2026-10-25 002136" src="https://github.com/user-attachments/assets/e5580e17-0fc9-44d5-8bf3-8b52da05939f" />
-<img width="567" height="265" alt="Screenshot 2026-10-25 002153" src="https://github.com/user-attachments/assets/93889117-4d2a-4c8e-b2e9-ef72c5d5ac08" />
-<img width="616" height="292" alt="Screenshot 2026-10-25 002205" src="https://github.com/user-attachments/assets/1287f9fa-8023-41f3-85af-3106dc49805c" />
+<img width="960" height="455" alt="Screenshot 2026-10-25 002116" src="https://github.com/user-attachments/assets/d3080ee4-363f-438b-a658-8d4115d352d9" />
+<img width="960" height="455" alt="Screenshot 2026-10-25 002136" src="https://github.com/user-attachments/assets/e5580e17-0fc9-44d5-8bf3-8b52da05939f" />
+<img width="960" height="455" alt="Screenshot 2026-10-25 002153" src="https://github.com/user-attachments/assets/93889117-4d2a-4c8e-b2e9-ef72c5d5ac08" />
+<img width="960" height="455" alt="Screenshot 2026-10-25 002205" src="https://github.com/user-attachments/assets/1287f9fa-8023-41f3-85af-3106dc49805c" />
 
 
 
